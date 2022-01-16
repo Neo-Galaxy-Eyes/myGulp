@@ -1,3 +1,9 @@
+### 核心代码：
+
+[gulpfile.js](https://github.com/Neo-Galaxy-Eyes/myGulp/blob/master/gulpfile.js)
+
+
+
 ### 任务实现：
 
 #### 模板引擎转换
@@ -19,9 +25,3 @@
 #### 文件清理
 
 #### 文件输出
-
-
-
-### 核心代码：
-
-[gulpfile.js](https://github.com/Neo-Galaxy-Eyes/myGulp/blob/master/gulpfile.js)
